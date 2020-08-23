@@ -15,7 +15,6 @@
 
 **Qualquer outro componente que estiver ouvindo este estado, também sente as mudanças e renderiza novamente, qualquer componente pode além de ouvir, alterar o estado**
 
------------------------------------------------
 
 ## Tecnologias:
 
