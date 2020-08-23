@@ -1,0 +1,27 @@
+ul {
+  padding: 20px
+}
+
+li {
+  margin-bottom: 8px;
+  color: #333;
+}
+
+input {
+  padding: 8px;
+  outline: none;
+  border: 1px solid #ccc;
+  color: #333;
+  border-radius: 4px;
+}
+
+button {
+  width: 50%;
+  margin: 20px auto;
+  border: none;
+  background-color: #87e;
+  color: #fff;
+  height: 36px;
+  border-radius: 4px;
+  outline: none;
+}
